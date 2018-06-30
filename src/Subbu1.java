@@ -12,7 +12,7 @@ public class Subbu1 {
 	 
 	      System.out.println("Before Swapping\nx = "+x+"\ny = "+y);
 	 
-	      y = y + x;
+	      y = x + y;
 	      x = y - x;
 	      y = y - x;
 	 
